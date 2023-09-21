@@ -63,5 +63,18 @@
                "thumbnail": []
           },
           "id": 5
+     },
+     {
+          "product": {
+               "title": "Lapiz",
+               "description": "Este es un lapiz GRANDE",
+               "code": "abc1256742",
+               "price": 20,
+               "status": true,
+               "stock": 10,
+               "category": "papeleria",
+               "thumbnail": "Sin imagen"
+          },
+          "id": 6
      }
 ]
