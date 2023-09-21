@@ -76,5 +76,18 @@
                "thumbnail": "Sin imagen"
           },
           "id": 6
+     },
+     {
+          "product": {
+               "title": "zaedrgyzd",
+               "description": "Este es un lapiz GRANDE",
+               "code": "abc1sdg742",
+               "price": 20,
+               "status": true,
+               "stock": 10,
+               "category": "papeleria",
+               "thumbnail": "Sin imagen"
+          },
+          "id": 7
      }
 ]
